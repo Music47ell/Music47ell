@@ -7,6 +7,11 @@ I have a strong passion for programming and I'm always looking for new challenge
 ### Latest posts on [my blog](https://www.news47ell.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Acquires NPM](https://www.news47ell.com/blog/github-acquires-npm)
+- [Fish Shell Review](https://www.news47ell.com/blog/fish-shell-review)
+- [iTerm2 Review](https://www.news47ell.com/blog/iterm2-terminal-app-macos)
+- [News47ell Now on GitHub](https://www.news47ell.com/blog/news47ell-now-on-github)
+- [How To Host Google Analytics Locally In WordPress](https://www.news47ell.com/blog/host-google-analytics-locally-wordpress)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
