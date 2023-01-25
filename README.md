@@ -18,4 +18,4 @@ I have a strong passion for programming and I'm always looking for new challenge
 
 - [My personal website](https://news47ell.com/)
 - [@Music47ell on Twitter](https://twitter.com/Music47ell)
-- [Follow RSS](https://www.news47ell.com/feed)
+- [Follow RSS](https://www.news47ell.com/feed.xml)
