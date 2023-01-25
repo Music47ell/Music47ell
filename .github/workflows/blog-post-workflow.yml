@@ -14,4 +14,4 @@ jobs:
       - name: Pull in news47ell.com posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://www.news47ell.com/feed"
+          feed_list: "https://www.news47ell.com/feed.xml"
