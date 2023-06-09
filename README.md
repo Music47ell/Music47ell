@@ -10,8 +10,8 @@ I have a strong passion for programming and I'm always looking for new challenge
 - [Real-time page views with Next.js, Turso and Drizzle ORM](https://www.news47ell.com/blog/page-views-nextjs-turso-drizzle-orm)
 - [Using the Trakt API with Next.js](https://www.news47ell.com/blog/trakt-api-nextjs)
 - [Next.js is what&#39;s next for News47ell](https://www.news47ell.com/blog/nextjs-news47ell-github-public)
+- [Ignore Node Modules folder in Dropbox](https://www.news47ell.com/blog/git-ignore-node-modules-dropbox)
 - [GitHub Acquires NPM](https://www.news47ell.com/blog/github-acquires-npm)
-- [Fish Shell Review](https://www.news47ell.com/blog/fish-shell-review)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
