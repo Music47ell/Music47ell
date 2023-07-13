@@ -7,11 +7,11 @@ I have a strong passion for programming and I'm always looking for new challenge
 ### Latest posts on [my blog](https://www.news47ell.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Filen Review - Dropbox alternative with a way to exclude node_modules folder](https://www.news47ell.com/blog/filen-review-dropbox-alternative-exclude-node-modules-sync)
 - [Real-time page views with Next.js, Turso and Drizzle ORM](https://www.news47ell.com/blog/page-views-nextjs-turso-drizzle-orm)
 - [Using the Trakt API with Next.js](https://www.news47ell.com/blog/trakt-api-nextjs)
 - [Next.js is what&#39;s next for News47ell](https://www.news47ell.com/blog/nextjs-news47ell-github-public)
 - [GitHub Acquires NPM](https://www.news47ell.com/blog/github-acquires-npm)
-- [Fish Shell Review](https://www.news47ell.com/blog/fish-shell-review)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
