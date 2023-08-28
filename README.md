@@ -7,11 +7,11 @@ I have a strong passion for programming and I'm always looking for new challenge
 ### Latest posts on [my blog](https://www.news47ell.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [ente Auth Review - An E2EE Google Authenticator Alternative](https://www.news47ell.com/blog/ente-authenticator-review-e2ee-google-authenticator-alternative)
 - [Maestral Review - How to Ignore node_modules in Dropbox with Maestral](https://www.news47ell.com/blog/maestral-review-exclude-node-modules-dropbox-mignore-gitignore)
 - [Filen Review - Dropbox alternative with a way to exclude node_modules folder](https://www.news47ell.com/blog/filen-review-dropbox-alternative-exclude-node-modules-sync)
 - [Real-time page views with Next.js, Turso and Drizzle ORM](https://www.news47ell.com/blog/page-views-nextjs-turso-drizzle-orm)
 - [Using the Trakt API with Next.js](https://www.news47ell.com/blog/trakt-api-nextjs)
-- [Next.js is what&#39;s next for News47ell](https://www.news47ell.com/blog/nextjs-news47ell-github-public)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
