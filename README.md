@@ -7,11 +7,11 @@ I have a strong passion for programming and I'm always looking for new challenge
 ### Latest posts on [my blog](https://www.news47ell.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Set Security Headers in Cloudflare Using Transform Rules](https://www.news47ell.com/blog/security-headers-cloudflare-transform-rules)
+- [How to Implement Security Headers in a Vercel Project](https://www.news47ell.com/blog/security-headers-vercel)
+- [What Are HTTP Security Headers and Why Should You Implement Them?](https://www.news47ell.com/blog/security-headers)
 - [ente Auth Review - An E2EE Google Authenticator Alternative](https://www.news47ell.com/blog/ente-authenticator-review-e2ee-google-authenticator-alternative)
 - [Maestral Review - How to Ignore node_modules in Dropbox with Maestral](https://www.news47ell.com/blog/maestral-review-exclude-node-modules-dropbox-mignore-gitignore)
-- [Filen Review - Dropbox alternative with node_modules folder exclusion](https://www.news47ell.com/blog/filen-review-dropbox-alternative-exclude-node-modules-sync)
-- [Use rsync to Sync Node Project to Dropbox and Ignore node modules Folder](https://www.news47ell.com/blog/sync-node-project-ignore-node-modules-rsync-bash-script)
-- [Real-time page views with Next.js, Turso and Drizzle ORM](https://www.news47ell.com/blog/page-views-nextjs-turso-drizzle-orm)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
