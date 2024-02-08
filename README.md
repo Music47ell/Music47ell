@@ -7,11 +7,11 @@ I have a strong passion for programming and I'm always looking for new challenge
 ### Latest posts on [my blog](https://www.news47ell.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Convert Country Code to Flag Emoji in JavaScript](https://www.news47ell.com/blog/country-code-flag-emoji)
 - [Set Security Headers in Cloudflare Using Transform Rules](https://www.news47ell.com/blog/security-headers-cloudflare-transform-rules)
 - [How to Implement Security Headers in a Vercel Project](https://www.news47ell.com/blog/security-headers-vercel)
 - [What Are HTTP Security Headers and Why Should You Implement Them?](https://www.news47ell.com/blog/security-headers)
 - [ente Auth Review - An E2EE Google Authenticator Alternative](https://www.news47ell.com/blog/ente-authenticator-review-e2ee-google-authenticator-alternative)
-- [Maestral Review - How to Ignore node_modules in Dropbox with Maestral](https://www.news47ell.com/blog/maestral-review-exclude-node-modules-dropbox-mignore-gitignore)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
