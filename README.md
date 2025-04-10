@@ -7,11 +7,11 @@ I have a strong passion for programming and I'm always looking for new challenge
 ### Latest posts on [my blog](https://www.news47ell.com)
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Convert Country Code to Flag Emoji in JavaScript](https://ahmetalmaz.com/country-code-flag-emoji)
-- [Set Security Headers in Cloudflare Using Transform Rules](https://ahmetalmaz.com/security-headers-cloudflare-transform-rules)
-- [How to Implement Security Headers in a Vercel Project](https://ahmetalmaz.com/security-headers-vercel)
-- [What Are HTTP Security Headers and Why Should You Implement Them?](https://ahmetalmaz.com/security-headers)
-- [ente Auth Review - An E2EE Google Authenticator Alternative](https://ahmetalmaz.com/ente-authenticator-review-e2ee-google-authenticator-alternative)
+- [How to Convert Country Code to Flag Emoji in JavaScript](https://ahmetalmaz.com/blog/country-code-flag-emoji)
+- [Set Security Headers in Cloudflare Using Transform Rules](https://ahmetalmaz.com/blog/security-headers-cloudflare-transform-rules)
+- [How to Implement Security Headers in a Vercel Project](https://ahmetalmaz.com/blog/security-headers-vercel)
+- [What Are HTTP Security Headers and Why Should You Implement Them?](https://ahmetalmaz.com/blog/security-headers)
+- [ente Auth Review - An E2EE Google Authenticator Alternative](https://ahmetalmaz.com/blog/ente-authenticator-review-e2ee-google-authenticator-alternative)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
