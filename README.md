@@ -7,11 +7,11 @@ I have a strong passion for programming and I'm always looking for new challenge
 ### Latest posts on [my blog](https://www.news47ell.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Self-Hosting My Astro Site with Headless WordPress on Hetzner](https://ahmetalmaz.com/blog/astro-headless-wordpress-hetzner)
 - [How to Convert Country Code to Flag Emoji in JavaScript](https://ahmetalmaz.com/blog/country-code-flag-emoji)
 - [Use rsync to Sync Node Project to Dropbox and Ignore node modules Folder](https://ahmetalmaz.com/blog/sync-node-project-ignore-node-modules-rsync-bash-script)
 - [Real-time page views with Next.js, Turso and Drizzle ORM](https://ahmetalmaz.com/blog/page-views-nextjs-turso-drizzle-orm)
 - [Using the Trakt API with Next.js](https://ahmetalmaz.com/blog/trakt-api-nextjs)
-- [Host Google Analytics Locally In WordPress](https://ahmetalmaz.com/blog/host-google-analytics-locally-wordpress)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
