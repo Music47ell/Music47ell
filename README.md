@@ -7,11 +7,11 @@ I have a strong passion for programming and I'm always looking for new challenge
 ### Latest posts on [my blog](https://www.news47ell.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Style an RSS Feed with Tailwind CSS](https://ahmetalmaz.com/blog/how-to-style-rss-feed-with-tailwindcss)
 - [How I Built a WordPress Preview System in Astro for a Headless Blog](https://ahmetalmaz.com/blog/astro-wordpress-preview-headless)
 - [How to Add ntfy Notifications to GitHub Actions for Build Alerts](https://ahmetalmaz.com/blog/github-actions-ntfy-astro-build-notifications)
 - [How to Deploy Self Hosted Ntfy Notification Server Using Docker](https://ahmetalmaz.com/blog/self-hosted-ntfy-docker-notification-server)
 - [Self-Hosting My Astro Site with Headless WordPress on Hetzner](https://ahmetalmaz.com/blog/astro-headless-wordpress-hetzner)
-- [How to Convert Country Code to Flag Emoji in JavaScript](https://ahmetalmaz.com/blog/country-code-flag-emoji)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
