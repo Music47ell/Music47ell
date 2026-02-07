@@ -16,6 +16,7 @@ I have a strong passion for programming and I'm always looking for new challenge
 
 ### Stay up to date
 
-- [My personal website](https://news47ell.com/)
+- [My personal website](https://ahmetalmaz.com/)
 - [@Music47ell on Twitter](https://twitter.com/Music47ell)
-- [Follow RSS](https://www.news47ell.com/feed.xml)
+- <a rel="me" href="https://mastodon.social/@Music47ell">Music47ell on Mastodon</a>
+- [Follow RSS](https://ahmetalmaz.com/feed.xml)
