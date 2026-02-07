@@ -16,7 +16,7 @@ I have a strong passion for programming and I'm always looking for new challenge
 
 ### Stay up to date
 
-- Fediverse: @music47ell@mastodon.social
+- Fediverse: `@music47ell@mastodon.social`
 - [My personal website](https://ahmetalmaz.com/)
 - [@Music47ell on Twitter](https://twitter.com/Music47ell)
 - [Follow RSS](https://ahmetalmaz.com/feed.xml)
